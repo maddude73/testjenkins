@@ -9,4 +9,3 @@ Test is a test of git
 8
 9
 10
-ZZ
